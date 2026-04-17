@@ -1,0 +1,39 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 40px;
+  background-color: gray;
+}
+#start {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
+.block {
+  border: 5px solid #333;
+  padding: 15px;
+  margin: 10px auto;
+  width: 250px;
+  border-radius:10px;
+  background-color:burlywood;
+}
+
+
+.active {
+  background-color: lightgreen;
+  border-color: green;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 50px;
+  background-color: lightcoral;
+}
+
+#output {
+  font-weight: bold;
+  font-size: 18px;
+}
